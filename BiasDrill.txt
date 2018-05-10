@@ -1,0 +1,15 @@
+BiasDrill
+In each of the scenarios, find possible shortcomings of the theoretical or actual data sources to answer the given question. What could be done to either adjust the analysis or reframe the question so that you can answer it accurately?
+
+Data Source: Amsterdam availability data scraped from AirBnB on December 24th. Question: What are the popular neighborhoods in Amsterdam?
+
+December 24th is one of the major holidays in Europe. The availability of apartments is likely to be biased because less people will rent their place, because they need it for themselves. And because the demand will increase, too; because people might want to visit for the holidays. The data will not be representative for timeperiods other than major holidays. I would rephrase the question: What are the popular neighborhoods in Amsterdam during major holidays?
+
+Data Source: Mental health services use on September 12, 2001 in San Francisco, CA and New York City, NY. Question: How do patterns of mental health service use vary between cities?
+
+After the attacks of 9/11 in New York City and DC, the whole world was in shock. However comparing a city, that was directly attack to a city that was not introduces bias. I would rephrase the question: How do patterns of mental health service use vary between cities that were directly attack versus not directly attacked?
+
+
+Data Source: Armenian Pub Survey. Question: What are the most common reasons Armenians visit local pubs?
+
+The occupation column of the dataset reveals that the majority of participants were students, so I would rephrase the question to:What are the most common reasons Armenian students visit local pubs?
