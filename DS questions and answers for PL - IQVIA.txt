@@ -1,0 +1,19 @@
+DS questions for PL
+Are you happy that you transitioned into DS? Do you miss Neuroscience?
+yes
+I read that you did the Insight DS bootcamp (so cool!!), that means you were probably matched during the bootcamp. But still, what do you think, how did you convince during the interview?
+I actually, was not matched. I did a couple of interviews but I did not like any of the offers. I did another internship it which I coded a lot SVMs. Then there was an opening from IQVIA, where they were exactly looking for these skills. I was well prepared and confident.
+Working as a DS now, what are/were your biggest challenges and how do/did you overcome them?
+Write production code
+What are you working on at IQVIA?
+Detecting potential clients in patient data (rare cases)
+What is the structure like? How are the interactions with your coworkers?
+Teamed with consultant, As a two people team we have around 3-5 clients that we serve.
+Are you happy working for IQVIA?
+Yes, they are very structured and organized.
+Are there DS or similar possibilities in Atlanta or remote?
+Not sure, but if there is a great fit, than remote would probably be fine.
+Any advice or things you would have love to know in advance?
+Be prepared but also honest to yourself, if you don’t feel this is a great fit, don’t take it. It payed of for me.
+
+
